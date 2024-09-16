@@ -1,0 +1,25 @@
+/* Google Font class */
+.architects-daughter-regular {
+    font-family: "Architects Daughter", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+/* Apply styles to all content */
+* {
+    font-family: "Architects Daughter", cursive;
+    background-color: #BC9F8B;
+}
+
+h1 {
+  background-color: #B5CFB7;
+}
+
+h2 {
+  background-color: #CADABF;
+}
+
+h3 {
+  background-color: #E7E8D8;
+}
