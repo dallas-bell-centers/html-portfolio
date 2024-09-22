@@ -7,13 +7,9 @@
   
   
 /* Apply styles to all content */
-* {
-    font-family: "Architects Daughter", cursive;
-    background-color: #BC9F8B;
-}
 
-h1 {
-  background-color: #B5CFB7;
+* {
+  font-family: "Architects Daughter", cursive;
 }
 
 h2 {
@@ -22,4 +18,38 @@ h2 {
 
 h3 {
   background-color: #E7E8D8;
+}
+
+#header {
+  background-color: #B5CFB7;
+  text-align: center;
+  width: 100%;
+  margin: 0px;
+  padding: 10px;
+}
+
+body {
+  margin: 0px;
+  background-color: #BC9F8B;
+}
+
+#content {
+  background-color: #E7E8D8;
+  width: 60%;
+  margin-left: 20%;
+  padding: 10px;
+}
+
+#content h2 {
+  text-align: center;
+  width: 100%;
+  margin: 0%;
+}
+
+#footer {
+  background-color: #B5CFB7;
+  text-align: center;
+  width: 100%;
+  margin: 0px;
+  padding: 10px;
 }
