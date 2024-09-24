@@ -10,6 +10,7 @@
 
 * {
   font-family: "Architects Daughter", cursive;
+  box-sizing: border-box;
 }
 
 h2 {
